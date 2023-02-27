@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463506722494",
+    "project_id": "pishtaz-daade",
+    "storage_bucket": "pishtaz-daade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463506722494:android:3202cba4999f59f46e98ef",
+        "android_client_info": {
+          "package_name": "com.example.crashlytics_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463506722494-l7p814jqjugkv66grfvqj6u1g21ordk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7uQmknmVqtL0RmZc8tqgr8_i8vvBsEj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463506722494-l7p814jqjugkv66grfvqj6u1g21ordk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
